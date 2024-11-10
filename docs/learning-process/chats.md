@@ -4,7 +4,7 @@
 - Официальные языки: RU, EN, BE.
 - Ваш ник в Discord должен содержать ваш GitHub-username после `@` и выглядеть следующим образом `Paval Miatlitski (@pavalEscoba)`. Инструкция по добавлению аккаунта GitHub в Discord:
 
-![github](images/github_acc.png)
+![github](https://raw.githubusercontent.com/SpaNb4/docs/refs/heads/master/docs/images/github_acc.png)
 
 - В канале обсуждается только указанная в его названии тематика, например, **#live-coding** предназначен **исключительно** для обсуждений live-стримов. Нетематические посты будут удаляться. Назначение каналов указано ниже.
 - Используйте поиск и pinned messages.
