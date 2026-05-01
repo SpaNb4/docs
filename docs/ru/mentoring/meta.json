@@ -1,0 +1,13 @@
+{
+  "title": "Менторинг",
+  "pages": [
+    "rs-school-mentor",
+    "pair-mentoring",
+    "mentoring-kick-off",
+    "mentoring-first-interview",
+    "mentoring",
+    "pull-request-review-process",
+    "cross-interview"
+  ],
+  "defaultOpen": true
+}

@@ -75,7 +75,7 @@
 - **#english** - канал для практики английского языка. Также можно присоединиться к серверу [Practice English](https://discord.gg/mZdYun6)
 - **#pc-builds**
 - **#workspace** - в этом канале обсуждаем софт, плагины, операционные системы, конфиги и т.д.
-- [**#mentoring**](rs-school-mentor.md)
+- [**#mentoring**](mentoring/rs-school-mentor.md)
 
 #### Категория `Opportunities`
 

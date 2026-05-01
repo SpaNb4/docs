@@ -75,7 +75,7 @@ Channels:
 - **#english** - channel for practicing English. You can also join the [Practice English](https://discord.gg/mZdYun6) server
 - **#pc-builds**
 - **#workspace** - in this channel we discuss software, plugins, operating systems, configs, etc.
-- [**#mentoring**](rs-school-mentor.md)
+- [**#mentoring**](mentoring/rs-school-mentor.md)
 
 #### Category `Opportunities`
 
@@ -164,4 +164,3 @@ Questions that don't fit into special channels like #git/#tests/#live-coding/#co
 ## School Feedback
 
 Anonymous feedback, complaints or enthusiastic reviews, please send [here](https://docs.google.com/forms/d/1F4NeS0oBq-CY805aqiPVp6CIrl4_nIYJ7Z_vUcMOFrQ/viewform)
-

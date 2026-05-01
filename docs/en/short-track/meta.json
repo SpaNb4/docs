@@ -1,0 +1,22 @@
+{
+  "title": "Short-track Course",
+  "pages": [
+    "course-overview",
+    "[How to enroll](https://rs.school/courses/short-track)",
+    "git-convention",
+    "cross-check-flow",
+    "code-of-conduct",
+    "rs-school-chats",
+    "rs-app-tasks",
+    "pull-request-requirements",
+    "certificate",
+    "dismission",
+    "rs-app",
+    "rs-app-schedule",
+    "notifications",
+    "moderators",
+    "rs-school-activist",
+    "fundraiser"
+  ],
+  "defaultOpen": true
+}

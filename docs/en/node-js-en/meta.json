@@ -1,0 +1,12 @@
+{
+  "title": "Node.js EN Course",
+  "pages": [
+    "course-overview",
+    "[How to enroll](https://rs.school/courses/nodejs)",
+    "git-convention",
+    "cross-check-flow",
+    "code-of-conduct",
+    "dismission"
+  ],
+  "defaultOpen": true
+}

@@ -1,0 +1,32 @@
+{
+  "title": "RS School",
+  "pages": [
+    "index",
+    "rs-school-chats",
+    "code-of-conduct",
+    "dismission",
+    "rs-school-certificate",
+    "rs-app",
+    "rs-app-schedule",
+    "rs-app-tasks",
+    "cross-check-flow",
+    "notifications",
+    "rs-app-issues",
+    "private-repository",
+    "git-convention",
+    "rs-school-activist",
+    "fix-typo",
+    "rs-school-ai",
+    "fundraiser",
+    "mentoring",
+    "rs-school-trainer",
+    "create-task",
+    "rs-app-add-tests",
+    "rs-app-schedule-admins",
+    "streaming",
+    "rolling-scopes-overview",
+    "js-fe-course",
+    "first-home-task",
+    "ml-intro-course"
+  ]
+}

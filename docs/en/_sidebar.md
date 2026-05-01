@@ -1,4 +1,4 @@
-- [RS School Overview](en/README.md)
+- [RS School Overview](en/index.md)
 - JavaScript/Front-end Course
   - [Course Overview](en/js-fe-course.md)
   - [How to enroll](https://rs.school/poland/)
